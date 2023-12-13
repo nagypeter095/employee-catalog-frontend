@@ -24,8 +24,8 @@ const Table = ({ employees, onDelete }: TableProps) => {
           <th>First name</th>
           <th>Last name</th>
           <th>Position</th>
-          <th>Gender</th>
           <th>Age</th>
+          <th>Gender</th>
           <th>Actions</th>
         </tr>
       </thead>
